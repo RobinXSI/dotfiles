@@ -9,7 +9,6 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'jackguo380/vim-lsp-cxx-highlight'
-Plug 'neoclide/coc-git'
 Plug 'sjl/badwolf'
 Plug 'rking/ag.vim'
 
